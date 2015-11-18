@@ -3,5 +3,5 @@ https://github.com/vipzrx/LFS-BF70x
 https://github.com/vipzrx/LFS-BF70x.git
 git@github.com:vipzrx/LFS-BF70x.git
 
-Ö÷»ú±ğÃû£º
+ä¸»æœºåˆ«åï¼š
 github:vipzrx/LFS-BF70x.git
