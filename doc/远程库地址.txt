@@ -1,0 +1,7 @@
+https://github.com/vipzrx/LFS-BF70x
+
+https://github.com/vipzrx/LFS-BF70x.git
+git@github.com:vipzrx/LFS-BF70x.git
+
+主机别名：
+github:vipzrx/LFS-BF70x.git
