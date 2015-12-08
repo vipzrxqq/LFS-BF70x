@@ -1,2 +1,2 @@
-使用cces之外的代码阅读工具，比如source inlight 阅读代码时，需要的cces系统提供的库文件
+浣跨敤cces涔嬪鐨勪唬鐮侀槄璇诲伐鍏凤紝姣斿source insight 闃呰浠ｇ爜鏃讹紝闇�瑕佺殑cces绯荤粺鎻愪緵鐨勫簱鏂囦欢
 
